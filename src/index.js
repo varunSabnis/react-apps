@@ -30,9 +30,4 @@ ReactDOM.render(<Provider>
 // unregister() to register() below. Note this comes with some pitfalls.
 // Learn more about service workers: http://bit.ly/CRA-PWA
 serviceWorker.unregister();
- 
-// upgrade time  3:55 - 4:35
-//downgrade time - 5:05
-//135.27.117.161
-
-//5:05 start time 
+  
